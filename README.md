@@ -20,7 +20,7 @@ Map-stylizer requires Python to run. I use Python 3.9.7, newer versions are unte
 
 Now download or clone the map-stylizer git-repository. You can either do this with [git](https://git-scm.com/downloads) and the command `git clone https://github.com/Absolute-Tinkerer/map-stylizer.git` or by pressing the green "Code"-button and then "Download ZIP" on the github-website.
 
-For the best experience clone this repository as well with `git clone https://github.com/Akashic101/osm-to-poster-tutorial.git`
+For the best experience clone this repository as well with `git clone https://github.com/Akashic101/OSM-to-poster-tutorial.git`
 
 Open a command-prompt and navigate into the folder, there enter `python main.py` to start the program. If you are getting an error that a module is missing you can install the missing dependency with `pip install <modulename>`. After that run the above command again to start the program. If everything worked you should see the following program open:
 
