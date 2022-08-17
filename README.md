@@ -18,7 +18,7 @@ Image-editing program (I use Adobe Photoshop in this example, a free alternative
 
 Map-stylizer requires Python to run. I use Python 3.9.7, newer versions are untested. You can download the exact version from [here](https://www.python.org/downloads/release/python-397/). Follow the installation instructions and make sure to "add Python to PATH" on Windows. 
 
-Now download or clone the map-stylizer git-repository. You can either do this with [git]() and the command `git clone https://github.com/Absolute-Tinkerer/map-stylizer.git` or by pressing the green "Code"-button and then "Download ZIP" on the github-website.
+Now download or clone the map-stylizer git-repository. You can either do this with [git](https://git-scm.com/downloads) and the command `git clone https://github.com/Absolute-Tinkerer/map-stylizer.git` or by pressing the green "Code"-button and then "Download ZIP" on the github-website.
 
 For the best experience clone this repository as well with `git clone https://github.com/Akashic101/osm-to-poster-tutorial.git`
 
