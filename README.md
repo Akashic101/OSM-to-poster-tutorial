@@ -6,8 +6,7 @@ In this tutorial you will learn how to use [OpenStreetMaps](https://www.openstre
 
 ![.](https://i.imgur.com/ozgEsSf.jpg)
 
-All necessary files and examples are included in this repository, and all software will be free to download. If a program is used that is not freeware a no-costs alternative will be provided.
-
+All necessary files and examples are included in this repository, and all software will be free to download. If a program is used that is not freeware a no-costs alternative will be provided. A PDF of this document is included as well.
 
 ## What you need
 
